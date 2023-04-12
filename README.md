@@ -113,9 +113,13 @@ plt.show()
 ```
 ## Output:
 ### SOBEL EDGE DETECTOR
-
+#### SOBEL X :
 ![OUTPUT](./see1.png)
+
+#### SOBEL Y :
 ![OUTPUT](./see2.png)
+
+#### SOBEL XY :
 ![OUTPUT](./see3.png)
 
 ### LAPLACIAN EDGE DETECTOR
